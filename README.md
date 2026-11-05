@@ -1,8 +1,8 @@
-# ST 年报博弈 · 静态演示
+# 观市 · 实时模拟交易台（静态演示）
 
-这是「观市」ST 年报博弈模式的静态构建，用于公网预览与长期演示。
+- 交易台（A/B/C）：https://xingtaotuo601-crypto.github.io/st-annual/desk/
+- ST 年报博弈：https://xingtaotuo601-crypto.github.io/st-annual/
 
-- 地址：https://xingtaotuo601-crypto.github.io/st-annual/
-- 数据快照：2026-11-05 14:39（北京时间），非实时行情
-- 仅用于交易模式研究与模拟盘演示，不构成任何投资建议
-- 页面源码在私有仓库维护，此仓库只存放构建产物
+实时行情来自东方财富公开接口；A/B/C 模拟账户保存在浏览器 localStorage，仅用于模拟研究，不构成投资建议。
+
+页面源码与策略引擎在私有仓库维护，此仓库只存放构建产物。
